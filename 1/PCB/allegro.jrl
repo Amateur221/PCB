@@ -1,0 +1,1721 @@
+\t (00:00:01) allegro 15.5 p008 (v15-5-81J) i86
+\t (00:00:01) 
+
+\t (00:00:01) Opening existing drawing...
+\d (00:00:02) Database opened: E:/work/电路板相关文件/画板/HD5-EX1000FS_V3.0/PCB/TL-340301030.brd
+\i (00:00:02) trapsize 9963
+\i (00:00:02) trapsize 11731
+\i (00:00:02) trapsize 11731
+\i (00:00:04) zoom in 
+\i (00:00:04) setwindow pcb
+\i (00:00:04) zoom in 6655.24 1825.22
+\i (00:00:04) trapsize 5865
+\i (00:00:05) zoom out 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out 7957.37 4206.59
+\i (00:00:05) trapsize 11731
+\i (00:00:06) zoom in 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in 7769.68 640.40
+\i (00:00:06) trapsize 5865
+\i (00:00:07) zoom out 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out 6936.79 710.79
+\i (00:00:07) trapsize 11731
+\i (00:00:08) zoom out 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 8156.81 124.25
+\i (00:00:08) trapsize 23462
+\i (00:00:09) zoom in 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in 17776.12 593.48
+\i (00:00:09) trapsize 11731
+\i (00:00:11) delete 
+\i (00:00:11) pick 17940.36 -649.99 
+\t (00:00:11) last pick:  17940.36  -649.99
+\t (00:00:11) No element found
+\i (00:00:16) drag_start grid -735.20 5801.99
+\i (00:00:18) drag_stop 10573.37 -1001.91
+\i (00:00:19) pick grid 8860.66 -1189.61
+\t (00:00:19) last pick:  8860.66  -1189.61
+\t (00:00:20) No element found
+\i (00:00:24) setwindow form.find
+\i (00:00:24) FORM find clines NO 
+\i (00:00:24) FORM find vias YES 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) drag_start grid -617.89 6060.07
+\i (00:00:28) drag_stop 10854.91 -1987.31
+\i (00:00:29) pick grid 9142.20 -2081.15
+\t (00:00:29) last pick:  9142.20  -2081.15
+\t (00:00:29) No element found
+\i (00:00:32) zoom in 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom in 6960.26 1226.95
+\i (00:00:32) trapsize 5865
+\i (00:00:32) zoom in 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom in 8367.97 2364.85
+\i (00:00:32) trapsize 2933
+\i (00:00:34) zoom out 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom out 9148.07 1854.55
+\i (00:00:34) trapsize 5865
+\i (00:00:35) zoom out 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom out 9019.04 2136.10
+\i (00:00:35) trapsize 11731
+\i (00:00:36) setwindow form.find
+\i (00:00:36) FORM find text YES 
+\i (00:00:39) FORM find text NO 
+\i (00:00:40) FORM find text YES 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) pick grid 4608.22 5115.74
+\t (00:00:42) last pick:  4608.22  5115.74
+\t (00:00:42) Text "257.6721"
+\i (00:00:42) pick grid 4678.61 5162.67
+\t (00:00:42) last pick:  4678.61  5162.67
+\t (00:00:42) No element found
+\i (00:00:44) pick grid 6649.40 5139.21
+\t (00:00:44) last pick:  6649.40  5139.21
+\t (00:00:44) No element found
+\i (00:00:45) setwindow form.find
+\i (00:00:45) FORM find lines YES 
+\i (00:00:46) FORM find vias NO 
+\i (00:00:47) setwindow pcb
+\i (00:00:47) pick grid 8620.18 5186.13
+\t (00:00:47) last pick:  8620.18  5186.13
+\t (00:00:47) Line "Board Geometry/Dimension"
+\i (00:00:47) pick grid dbl 8620.18 5186.13
+\t (00:00:47) last pick:  8620.18  5186.13
+\t (00:00:47) No element found
+\i (00:00:48) drag_start grid 9957.50 5397.29
+\i (00:00:51) drag_stop 10262.50 4928.05
+\i (00:00:55) undo 
+\i (00:00:56) trapsize 11731
+\i (00:00:58) redo 
+\i (00:00:58) trapsize 11731
+\i (00:00:58) replay C:/DOCUME~1/ADMINI~1/LOCALS~1/Temp/#Taaaaaa03676.tmp 
+\f (00:00:58) Select Script to Replay
+\i (00:00:58) scriptmode +i 
+\i (00:00:58) delete 
+\i (00:00:58) pick 17940.36 -649.99 
+\t (00:00:58) last pick:  17940.36  -649.99
+\t (00:00:58) No element found
+\i (00:00:58) drag_start grid -735.20 5801.99 
+\i (00:00:58) drag_stop 10573.37 -1001.91 
+\i (00:00:59) pick grid 8860.66 -1189.61 
+\t (00:00:59) last pick:  8860.66  -1189.61
+\t (00:00:59) No element found
+\i (00:01:00) setwindow form.find 
+\i (00:01:00) FORM find clines NO 
+\i (00:01:00) FORM find vias YES 
+\i (00:01:00) setwindow pcb 
+\i (00:01:00) drag_start grid -617.89 6060.07 
+\i (00:01:00) drag_stop 10854.91 -1987.31 
+\i (00:01:00) pick grid 9142.20 -2081.15 
+\t (00:01:00) last pick:  9142.20  -2081.15
+\t (00:01:00) No element found
+\i (00:01:01) setwindow pcb 
+\i (00:01:01) zoom in 6960.26 1226.95 
+\i (00:01:01) zoom in 6960.26 1226.95
+\i (00:01:01) trapsize 5865
+\i (00:01:01) trapsize 5865 
+\i (00:01:01) setwindow pcb 
+\i (00:01:01) zoom in 8367.97 2364.85 
+\i (00:01:01) zoom in 8367.97 2364.85
+\i (00:01:01) trapsize 2933
+\i (00:01:01) trapsize 2933 
+\i (00:01:01) setwindow pcb 
+\i (00:01:01) zoom out 9148.07 1854.55 
+\i (00:01:01) zoom out 9148.07 1854.55
+\i (00:01:01) trapsize 5865
+\i (00:01:01) trapsize 5865 
+\i (00:01:01) setwindow pcb 
+\i (00:01:01) zoom out 9019.04 2136.10 
+\i (00:01:01) zoom out 9019.04 2136.10
+\i (00:01:01) trapsize 11731
+\i (00:01:01) trapsize 11731 
+\i (00:01:01) setwindow form.find 
+\i (00:01:01) FORM find text YES 
+\i (00:01:01) FORM find text NO 
+\i (00:01:01) FORM find text YES 
+\i (00:01:01) setwindow pcb 
+\i (00:01:01) pick grid 4608.22 5115.74 
+\t (00:01:01) last pick:  4608.22  5115.74
+\t (00:01:01) Text "257.6721"
+\i (00:01:01) pick grid 4678.61 5162.67 
+\t (00:01:01) last pick:  4678.61  5162.67
+\t (00:01:01) No element found
+\i (00:01:01) pick grid 6649.40 5139.21 
+\t (00:01:01) last pick:  6649.40  5139.21
+\t (00:01:01) No element found
+\i (00:01:01) setwindow form.find 
+\i (00:01:01) FORM find lines YES 
+\i (00:01:01) FORM find vias NO 
+\i (00:01:01) setwindow pcb 
+\i (00:01:01) pick grid 8620.18 5186.13 
+\t (00:01:01) last pick:  8620.18  5186.13
+\t (00:01:01) Line "Board Geometry/Dimension"
+\i (00:01:01) pick grid dbl 8620.18 5186.13 
+\t (00:01:01) last pick:  8620.18  5186.13
+\t (00:01:01) No element found
+\i (00:01:01) drag_start grid 9957.50 5397.29 
+\i (00:01:01) drag_stop 10262.50 4928.05 
+\i (00:01:01) done 
+\i (00:01:01) trapsize 11731
+\i (00:01:03) undo 
+\i (00:01:03) trapsize 11731
+\i (00:01:06) zoom in 
+\i (00:01:06) setwindow pcb
+\i (00:01:06) zoom in 2455.60 1930.81
+\i (00:01:06) trapsize 5865
+\i (00:01:09) delete 
+\i (00:01:09) pick 6338.53 -1776.15 
+\t (00:01:09) last pick:  6338.53  -1776.15
+\t (00:01:09) No element found
+\i (00:01:11) zoom out 
+\i (00:01:11) setwindow pcb
+\i (00:01:11) zoom out 7617.19 1966.00
+\i (00:01:11) trapsize 11731
+\i (00:01:12) drag_start grid -664.81 5672.96
+\i (00:01:14) drag_stop 10573.37 -708.64
+\i (00:01:14) pick grid 9306.44 -1389.03
+\t (00:01:14) last pick:  9306.44  -1389.03
+\t (00:01:15) No element found
+\i (00:01:17) setwindow form.find
+\i (00:01:17) FORM find clines NO 
+\i (00:01:17) FORM find vias YES 
+\i (00:01:19) setwindow pcb
+\i (00:01:19) drag_start grid -758.65 5884.11
+\i (00:01:20) drag_stop 10620.30 -849.41
+\i (00:01:21) pick grid 9658.36 -1342.11
+\t (00:01:21) last pick:  9658.36  -1342.11
+\t (00:01:21) No element found
+\i (00:01:24) setwindow form.find
+\i (00:01:24) FORM find vias NO 
+\i (00:01:25) FORM find text YES 
+\i (00:01:26) setwindow pcb
+\i (00:01:26) drag_start grid 10901.84 7244.89
+\i (00:01:27) drag_stop 15711.50 -4134.05
+\i (00:01:28) pick grid 15359.57 -4861.37
+\t (00:01:28) last pick:  15359.57  -4861.37
+\t (00:01:28) No element found
+\i (00:01:30) setwindow form.find
+\i (00:01:30) FORM find text NO 
+\i (00:01:32) FORM find groups YES 
+\i (00:01:33) setwindow pcb
+\i (00:01:33) pick grid 11324.15 6939.89
+\t (00:01:33) last pick:  11324.15  6939.89
+\t (00:01:33) Group "DRILL_LEGEND_1_6" has been selected.
+\t (00:01:33) Db_Drill_Legend "Drill_Legend_1_6"
+\i (00:01:34) pick grid 11324.15 6939.89
+\t (00:01:34) last pick:  11324.15  6939.89
+\t (00:01:34) No element found
+\i (00:01:37) setwindow form.find
+\i (00:01:37) FORM find groups NO 
+\i (00:01:41) setwindow pcb
+\i (00:01:41) zoom in 
+\i (00:01:41) setwindow pcb
+\i (00:01:41) zoom in 5552.56 2435.24
+\i (00:01:41) trapsize 5865
+\i (00:01:44) setwindow form.find
+\i (00:01:44) FORM find shapes YES 
+\i (00:01:45) setwindow pcb
+\i (00:01:45) zoom in 
+\i (00:01:45) setwindow pcb
+\i (00:01:45) zoom in 10221.45 4347.37
+\i (00:01:45) trapsize 2933
+\i (00:01:49) pick grid 10115.87 4511.60
+\t (00:01:49) last pick:  10115.87  4511.60
+\t (00:01:49) Cannot edit Shape "Board Geometry/Outline". It has the FIXED property.
+\t (00:01:49) Shape "Dgnd, Etch/Lay4-art2"
+\i (00:01:50) pick grid 10115.87 4511.60
+\t (00:01:50) last pick:  10115.87  4511.60
+\t (00:01:50) Cannot edit Shape "Board Geometry/Outline". It has the FIXED property.
+\t (00:01:50) Shape "Dgnd, Etch/Top"
+\i (00:01:53) pick grid 10115.87 4511.60
+\t (00:01:53) last pick:  10115.87  4511.60
+\t (00:01:53) Cannot edit Shape "Board Geometry/Outline". It has the FIXED property.
+\t (00:01:53) Shape "Dgnd, Etch/Bottom"
+\i (00:01:54) pick grid 10115.87 4511.60
+\t (00:01:54) last pick:  10115.87  4511.60
+\t (00:01:54) Cannot edit Shape "Board Geometry/Outline". It has the FIXED property.
+\t (00:01:54) Shape "Dgnd, Etch/Lay3-art1"
+\i (00:01:55) pick grid 10115.87 4511.60
+\t (00:01:55) last pick:  10115.87  4511.60
+\t (00:01:56) Cannot edit Shape "Board Geometry/Outline". It has the FIXED property.
+\t (00:01:56) Shape "Dgnd, Etch/Lay5-power"
+\i (00:01:57) pick grid 10115.87 4511.60
+\t (00:01:57) last pick:  10115.87  4511.60
+\t (00:01:57) Cannot edit Shape "Board Geometry/Outline". It has the FIXED property.
+\t (00:01:57) Shape "Dgnd, Boundary/Lay2-gnd"
+\i (00:02:07) pick grid 10057.21 3532.08
+\t (00:02:07) last pick:  10057.21  3532.08
+\t (00:02:07) No element found
+\i (00:02:08) zoom out 
+\i (00:02:08) setwindow pcb
+\i (00:02:08) zoom out 9851.92 3696.31
+\i (00:02:08) trapsize 5865
+\i (00:02:11) zoom in 
+\i (00:02:11) setwindow pcb
+\i (00:02:11) zoom in 5839.98 2581.88
+\i (00:02:11) trapsize 2933
+\i (00:02:11) zoom in 
+\i (00:02:11) setwindow pcb
+\i (00:02:11) zoom in 6649.41 4206.61
+\i (00:02:11) trapsize 1466
+\i (00:02:12) pick grid 6268.15 3564.34
+\t (00:02:12) last pick:  6268.15  3564.34
+\t (00:02:12) Shape "+3.3V, Etch/Lay5-power"
+\i (00:02:14) pick grid 6268.15 3584.87
+\t (00:02:14) last pick:  6268.15  3584.87
+\t (00:02:14) No element found
+\i (00:02:15) zoom out 
+\i (00:02:15) setwindow pcb
+\i (00:02:15) zoom out 6546.76 3702.18
+\i (00:02:15) trapsize 2933
+\i (00:02:15) zoom in 
+\i (00:02:15) setwindow pcb
+\i (00:02:15) zoom in 7655.33 4165.55
+\i (00:02:15) trapsize 1466
+\i (00:02:17) zoom out 
+\i (00:02:17) setwindow pcb
+\i (00:02:17) zoom out 7206.63 4015.99
+\i (00:02:17) trapsize 2933
+\i (00:02:18) zoom in 
+\i (00:02:18) setwindow pcb
+\i (00:02:18) zoom in 6133.26 2602.42
+\i (00:02:18) trapsize 1466
+\i (00:02:20) pick grid 6274.03 3203.63
+\t (00:02:20) last pick:  6274.03  3203.63
+\t (00:02:20) Shape "Dgnd, Etch/Lay3-art1"
+\i (00:02:21) pick grid 6276.97 3188.97
+\t (00:02:21) last pick:  6276.97  3188.97
+\t (00:02:21) No element found
+\i (00:02:22) pick grid 6367.88 3089.25
+\t (00:02:22) last pick:  6367.88  3089.25
+\t (00:02:22) Shape "Dgnd, Etch/Lay3-art1"
+\i (00:02:22) pick grid 6370.81 3086.32
+\t (00:02:22) last pick:  6370.81  3086.32
+\t (00:02:23) No element found
+\i (00:02:23) zoom out 
+\i (00:02:23) setwindow pcb
+\i (00:02:23) zoom out 6608.36 3215.36
+\i (00:02:23) trapsize 2933
+\i (00:02:24) zoom out 
+\i (00:02:24) setwindow pcb
+\i (00:02:24) zoom out 6913.37 3150.84
+\i (00:02:24) trapsize 5865
+\i (00:02:25) zoom in 
+\i (00:02:25) setwindow pcb
+\i (00:02:25) zoom in 5763.75 898.52
+\i (00:02:25) trapsize 2933
+\i (00:02:26) pick grid 5898.65 1168.33
+\t (00:02:26) last pick:  5898.65  1168.33
+\t (00:02:26) Shape "+1.2V, Etch/Lay3-art1"
+\i (00:02:26) pick grid 5898.65 1168.33
+\t (00:02:26) last pick:  5898.65  1168.33
+\t (00:02:26) No element found
+\i (00:02:27) pick grid 5898.65 1027.56
+\t (00:02:27) last pick:  5898.65  1027.56
+\t (00:02:27) Shape "+5V, Etch/Lay3-art1"
+\i (00:02:27) pick grid dbl 5898.65 1027.56
+\t (00:02:27) last pick:  5898.65  1027.56
+\t (00:02:27) No element found
+\i (00:02:28) pick grid 5669.90 1238.71
+\t (00:02:28) last pick:  5669.90  1238.71
+\t (00:02:28) Shape "Dgnd, Etch/Lay3-art1"
+\i (00:02:28) pick grid dbl 5669.90 1238.71
+\t (00:02:28) last pick:  5669.90  1238.71
+\t (00:02:28) No element found
+\i (00:02:29) pick grid 5840.00 1643.43
+\t (00:02:29) last pick:  5840.00  1643.43
+\t (00:02:29) Shape "Dgnd, Etch/Lay4-art2"
+\i (00:02:29) pick grid dbl 5840.00 1643.43
+\t (00:02:29) last pick:  5840.00  1643.43
+\t (00:02:29) No element found
+\i (00:02:30) pick grid 5241.72 1643.43
+\t (00:02:30) last pick:  5241.72  1643.43
+\t (00:02:30) Shape "Dgnd, Etch/Lay3-art1"
+\i (00:02:30) pick grid dbl 5241.72 1643.43
+\t (00:02:30) last pick:  5241.72  1643.43
+\t (00:02:30) No element found
+\i (00:02:30) pick grid 5095.09 1584.77
+\t (00:02:30) last pick:  5095.09  1584.77
+\t (00:02:30) Shape "Dgnd, Etch/Lay3-art1"
+\i (00:02:30) pick grid dbl 5095.09 1584.77
+\t (00:02:30) last pick:  5095.09  1584.77
+\t (00:02:30) No element found
+\i (00:02:31) pick grid 4473.35 1262.18
+\t (00:02:31) last pick:  4473.35  1262.18
+\t (00:02:31) Shape "Dgnd, Etch/Lay3-art1"
+\i (00:02:32) pick grid dbl 4473.35 1262.18
+\t (00:02:32) last pick:  4473.35  1262.18
+\t (00:02:32) No element found
+\i (00:02:32) zoom out 
+\i (00:02:32) setwindow pcb
+\i (00:02:32) zoom out 5147.88 1139.00
+\i (00:02:32) trapsize 5865
+\i (00:02:33) zoom in 
+\i (00:02:33) setwindow pcb
+\i (00:02:33) zoom in 1229.77 -374.28
+\i (00:02:33) trapsize 2933
+\i (00:02:34) zoom out 
+\i (00:02:34) setwindow pcb
+\i (00:02:34) zoom out 3482.10 423.42
+\i (00:02:34) trapsize 5865
+\i (00:02:35) zoom in 
+\i (00:02:35) setwindow pcb
+\i (00:02:35) zoom in 103.61 -163.12
+\i (00:02:35) trapsize 2933
+\i (00:02:36) pick grid 1833.92 405.83
+\t (00:02:36) last pick:  1833.92  405.83
+\t (00:02:36) Shape "Dgnd, Etch/Lay5-power"
+\i (00:02:37) pick grid 1657.95 399.96
+\t (00:02:37) last pick:  1657.95  399.96
+\t (00:02:37) Shape "Package Geometry/Place_Bound_Top"
+\i (00:02:38) pick grid 1722.47 194.67
+\t (00:02:38) last pick:  1722.47  194.67
+\t (00:02:38) Shape "+2.5V, Etch/Lay5-power"
+\i (00:02:38) pick grid dbl 1722.47 194.67
+\t (00:02:38) last pick:  1722.47  194.67
+\t (00:02:38) No element found
+\i (00:02:40) zoom in 
+\i (00:02:40) setwindow pcb
+\i (00:02:40) zoom in 2543.63 141.88
+\i (00:02:40) trapsize 1466
+\i (00:02:41) oops 
+\t (00:02:41) last pick:  1722.47  194.67
+\i (00:02:43) oops 
+\t (00:02:43) last pick:  1657.95  399.96
+\i (00:02:45) pick grid 2537.77 180.01
+\t (00:02:45) last pick:  2537.77  180.01
+\t (00:02:45) Shape "+2.5V, Etch/Lay5-power"
+\i (00:02:45) pick grid 2549.50 171.21
+\t (00:02:45) last pick:  2549.50  171.21
+\t (00:02:45) No element found
+\i (00:02:47) zoom in 
+\i (00:02:47) setwindow pcb
+\i (00:02:47) zoom in 2954.22 417.56
+\i (00:02:47) trapsize 733
+\i (00:02:48) pick grid 2913.16 417.56
+\t (00:02:48) last pick:  2913.16  417.56
+\t (00:02:48) Shape "Dgnd, Etch/Lay4-art2"
+\i (00:02:48) pick grid dbl 2913.16 417.56
+\t (00:02:48) last pick:  2913.16  417.56
+\t (00:02:48) No element found
+\i (00:02:50) zoom out 
+\i (00:02:50) setwindow pcb
+\i (00:02:50) zoom out 2574.43 376.50
+\i (00:02:50) trapsize 1466
+\i (00:02:50) zoom out 
+\i (00:02:50) setwindow pcb
+\i (00:02:50) zoom out 2292.89 394.10
+\i (00:02:50) trapsize 2933
+\i (00:02:51) zoom in 
+\i (00:02:51) setwindow pcb
+\i (00:02:51) zoom in 3612.62 1133.15
+\i (00:02:51) trapsize 1466
+\i (00:02:52) pick grid 3509.98 1089.16
+\t (00:02:52) last pick:  3509.98  1089.16
+\t (00:02:52) Shape "Dgnd, Etch/Lay3-art1"
+\i (00:02:52) pick grid 3548.10 1030.51
+\t (00:02:52) last pick:  3548.10  1030.51
+\t (00:02:52) No element found
+\i (00:02:53) zoom out 
+\i (00:02:53) setwindow pcb
+\i (00:02:53) zoom out 3290.03 666.85
+\i (00:02:53) trapsize 2933
+\i (00:02:53) zoom in 
+\i (00:02:53) setwindow pcb
+\i (00:02:53) zoom in 2023.09 1335.51
+\i (00:02:53) trapsize 1466
+\i (00:02:54) pick grid 1765.01 1285.65
+\t (00:02:54) last pick:  1765.01  1285.65
+\t (00:02:54) Shape "Dgnd, Etch/Lay3-art1"
+\i (00:02:55) pick grid 1788.47 1229.93
+\t (00:02:55) last pick:  1788.47  1229.93
+\t (00:02:55) No element found
+\i (00:02:56) pick grid 1656.50 992.38
+\t (00:02:56) last pick:  1656.50  992.38
+\t (00:02:56) Shape "Dgnd, Etch/Lay3-art1"
+\i (00:02:57) pick grid 1656.50 986.52
+\t (00:02:57) last pick:  1656.50  986.52
+\t (00:02:57) No element found
+\i (00:02:58) pick grid 1864.72 875.07
+\t (00:02:58) last pick:  1864.72  875.07
+\t (00:02:58) Shape "Dgnd, Etch/Lay3-art1"
+\i (00:02:58) pick grid dbl 1864.72 875.07
+\t (00:02:58) last pick:  1864.72  875.07
+\t (00:02:58) No element found
+\i (00:02:59) pick grid 2345.69 898.54
+\t (00:02:59) last pick:  2345.69  898.54
+\t (00:02:59) Shape "Dgnd, Etch/Top"
+\i (00:03:00) pick grid 2345.69 901.47
+\t (00:03:00) last pick:  2345.69  901.47
+\t (00:03:00) No element found
+\i (00:03:02) zoom in 
+\i (00:03:02) setwindow pcb
+\i (00:03:02) zoom in 1876.45 1740.23
+\i (00:03:02) trapsize 733
+\i (00:03:03) pick grid 1882.32 1688.91
+\t (00:03:03) last pick:  1882.32  1688.91
+\t (00:03:03) Shape "Dgnd, Etch/Lay3-art1"
+\i (00:03:03) pick grid 1882.32 1688.91
+\t (00:03:03) last pick:  1882.32  1688.91
+\t (00:03:03) No element found
+\i (00:03:05) pick grid 1830.99 1537.88
+\t (00:03:05) last pick:  1830.99  1537.88
+\t (00:03:05) Shape "Dgnd, Etch/Lay3-art1"
+\i (00:03:05) pick grid 1830.99 1537.88
+\t (00:03:05) last pick:  1830.99  1537.88
+\t (00:03:05) No element found
+\i (00:03:06) pick grid 2430.73 1388.31
+\t (00:03:06) last pick:  2430.73  1388.31
+\t (00:03:06) Shape "Dgnd, Etch/Lay3-art1"
+\i (00:03:07) pick grid 2405.81 1383.91
+\t (00:03:07) last pick:  2405.81  1383.91
+\t (00:03:07) Filled Rectangle "Package Geometry/Place_Bound_Top"
+\i (00:03:08) oops 
+\t (00:03:08) last pick:  2430.73  1388.31
+\e (00:03:09) Stroke not recognized.
+\i (00:03:10) zoom out 
+\i (00:03:10) setwindow pcb
+\i (00:03:10) zoom out 1795.80 1152.22
+\i (00:03:10) trapsize 1466
+\i (00:03:11) zoom in 
+\i (00:03:11) setwindow pcb
+\i (00:03:11) zoom in 1962.97 1861.94
+\i (00:03:11) trapsize 733
+\i (00:03:12) pick grid 1907.25 1993.91
+\t (00:03:12) last pick:  1907.25  1993.91
+\t (00:03:12) Shape "+1.8V_7441_Dvdd, Etch/Lay3-art1"
+\i (00:03:12) pick grid dbl 1907.25 1993.91
+\t (00:03:12) last pick:  1907.25  1993.91
+\t (00:03:12) No element found
+\i (00:03:13) pick grid 1918.98 1895.67
+\t (00:03:13) last pick:  1918.98  1895.67
+\t (00:03:13) Shape "Dgnd, Etch/Top"
+\i (00:03:14) pick grid dbl 1918.98 1895.67
+\t (00:03:14) last pick:  1918.98  1895.67
+\t (00:03:14) No element found
+\i (00:03:15) pick grid 1979.10 1668.38
+\t (00:03:15) last pick:  1979.10  1668.38
+\t (00:03:15) Shape "Dgnd, Etch/Top"
+\i (00:03:16) pick grid 1976.17 1677.18
+\t (00:03:16) last pick:  1976.17  1677.18
+\t (00:03:16) No element found
+\i (00:03:17) zoom out 
+\i (00:03:17) setwindow pcb
+\i (00:03:17) zoom out 2339.83 1671.32
+\i (00:03:17) trapsize 1466
+\i (00:03:18) zoom in 
+\i (00:03:18) setwindow pcb
+\i (00:03:18) zoom in 2243.05 2172.81
+\i (00:03:18) trapsize 733
+\i (00:03:19) pick grid 2131.61 2099.49
+\t (00:03:19) last pick:  2131.61  2099.49
+\t (00:03:19) Shape "+5V, Etch/Lay3-art1"
+\i (00:03:19) pick grid 2127.21 2093.63
+\t (00:03:19) last pick:  2127.21  2093.63
+\t (00:03:19) No element found
+\i (00:03:20) pick grid 2159.47 2278.39
+\t (00:03:20) last pick:  2159.47  2278.39
+\t (00:03:20) Shape "Dgnd, Etch/Lay3-art1"
+\i (00:03:21) pick grid dbl 2159.47 2278.39
+\t (00:03:21) last pick:  2159.47  2278.39
+\t (00:03:21) No element found
+\i (00:03:22) pick grid 2244.51 2070.17
+\t (00:03:22) last pick:  2244.51  2070.17
+\t (00:03:22) Shape "Dgnd, Etch/Lay3-art1"
+\i (00:03:22) pick grid 2244.51 2070.17
+\t (00:03:22) last pick:  2244.51  2070.17
+\t (00:03:22) No element found
+\i (00:03:23) pick grid 2443.94 2017.38
+\t (00:03:23) last pick:  2443.94  2017.38
+\t (00:03:23) Shape "Dgnd, Etch/Lay3-art1"
+\i (00:03:23) pick grid dbl 2443.94 2017.38
+\t (00:03:23) last pick:  2443.94  2017.38
+\t (00:03:23) No element found
+\i (00:03:24) pick grid 2485.00 2056.97
+\t (00:03:24) last pick:  2485.00  2056.97
+\t (00:03:24) Shape "Dgnd, Etch/Lay3-art1"
+\i (00:03:24) pick grid dbl 2485.00 2056.97
+\t (00:03:24) last pick:  2485.00  2056.97
+\t (00:03:24) No element found
+\i (00:03:25) pick grid 2690.29 2036.44
+\t (00:03:25) last pick:  2690.29  2036.44
+\t (00:03:25) Shape "Dgnd, Etch/Lay3-art1"
+\i (00:03:25) pick grid dbl 2690.29 2036.44
+\t (00:03:25) last pick:  2690.29  2036.44
+\t (00:03:25) No element found
+\i (00:03:26) pick grid 2631.63 2015.91
+\t (00:03:26) last pick:  2631.63  2015.91
+\t (00:03:26) Shape "Dgnd, Etch/Top"
+\i (00:03:26) pick grid dbl 2631.63 2015.91
+\t (00:03:26) last pick:  2631.63  2015.91
+\t (00:03:26) No element found
+\i (00:03:26) zoom out 
+\i (00:03:26) setwindow pcb
+\i (00:03:26) zoom out 2427.81 2024.71
+\i (00:03:26) trapsize 1466
+\i (00:03:27) zoom in 
+\i (00:03:27) setwindow pcb
+\i (00:03:27) zoom in 3014.35 1693.31
+\i (00:03:27) trapsize 733
+\i (00:03:28) pick grid 2914.64 1993.92
+\t (00:03:28) last pick:  2914.64  1993.92
+\t (00:03:28) Shape "+1.8V_7441_Avdd, Etch/Lay3-art1"
+\i (00:03:28) pick grid 2943.97 1988.05
+\t (00:03:28) last pick:  2943.97  1988.05
+\t (00:03:28) No element found
+\i (00:03:29) pick grid 2987.96 1933.79
+\t (00:03:29) last pick:  2987.96  1933.79
+\t (00:03:29) Shape "Dgnd, Etch/Lay3-art1"
+\i (00:03:30) pick grid 2979.16 1948.46
+\t (00:03:30) last pick:  2979.16  1948.46
+\t (00:03:30) No element found
+\i (00:03:30) pick grid 3203.51 1841.41
+\t (00:03:30) last pick:  3203.51  1841.41
+\t (00:03:30) Shape "+1.8V_7441_Pvdd, Etch/Lay3-art1"
+\i (00:03:31) pick grid dbl 3203.51 1841.41
+\t (00:03:31) last pick:  3203.51  1841.41
+\t (00:03:31) No element found
+\i (00:03:31) zoom out 
+\i (00:03:31) setwindow pcb
+\i (00:03:31) zoom out 2372.09 1976.32
+\i (00:03:31) trapsize 1466
+\i (00:03:34) zoom in 
+\i (00:03:34) setwindow pcb
+\i (00:03:34) zoom in 1979.10 1190.35
+\i (00:03:34) trapsize 733
+\i (00:03:35) zoom in 
+\i (00:03:35) setwindow pcb
+\i (00:03:35) zoom in 1962.97 1294.47
+\i (00:03:35) trapsize 367
+\i (00:03:35) zoom out 
+\i (00:03:35) setwindow pcb
+\i (00:03:35) zoom out 2188.06 1372.92
+\i (00:03:35) trapsize 733
+\i (00:03:36) zoom in 
+\i (00:03:36) setwindow pcb
+\i (00:03:36) zoom in 1979.85 1139.77
+\i (00:03:36) trapsize 367
+\i (00:03:36) pick grid 1985.72 1192.56
+\t (00:03:36) last pick:  1985.72  1192.56
+\t (00:03:36) Shape "Dgnd, Etch/Top"
+\i (00:03:37) pick grid 1951.99 1193.30
+\t (00:03:37) last pick:  1951.99  1193.30
+\t (00:03:37) No element found
+\i (00:03:38) zoom out 
+\i (00:03:38) setwindow pcb
+\i (00:03:38) zoom out 1899.94 1216.02
+\i (00:03:38) trapsize 733
+\i (00:03:38) zoom in 
+\i (00:03:38) setwindow pcb
+\i (00:03:38) zoom in 2254.79 1067.93
+\i (00:03:38) trapsize 367
+\i (00:03:39) pick grid 2254.06 1121.45
+\t (00:03:39) last pick:  2254.06  1121.45
+\t (00:03:39) Shape "Dgnd, Etch/Lay3-art1"
+\i (00:03:39) pick grid 2254.06 1121.45
+\t (00:03:39) last pick:  2254.06  1121.45
+\t (00:03:39) Filled Rectangle "Package Geometry/Place_Bound_Top"
+\i (00:03:41) oops 
+\t (00:03:41) last pick:  2254.06  1121.45
+\i (00:03:41) zoom out 
+\i (00:03:41) setwindow pcb
+\i (00:03:41) zoom out 2196.87 1119.99
+\i (00:03:41) trapsize 733
+\i (00:03:42) zoom out 
+\i (00:03:42) setwindow pcb
+\i (00:03:42) zoom out 2227.68 1119.99
+\i (00:03:42) trapsize 1466
+\i (00:03:43) zoom out 
+\i (00:03:43) setwindow pcb
+\i (00:03:43) zoom out 2265.80 923.50
+\i (00:03:43) trapsize 2933
+\i (00:03:44) zoom in 
+\i (00:03:44) setwindow pcb
+\i (00:03:44) zoom in 113.17 2812.17
+\i (00:03:44) trapsize 1466
+\i (00:03:45) pick grid 268.61 2671.40
+\t (00:03:45) last pick:  268.61  2671.40
+\t (00:03:45) Shape "+1.2V_7601_Pll, Etch/Lay3-art1"
+\i (00:03:45) pick grid 295.00 2647.94
+\t (00:03:45) last pick:  295.00  2647.94
+\t (00:03:45) No element found
+\i (00:03:46) pick grid 893.28 2480.78
+\t (00:03:46) last pick:  893.28  2480.78
+\t (00:03:46) Shape "Dgnd, Etch/Lay3-art1"
+\i (00:03:46) pick grid dbl 893.28 2480.78
+\t (00:03:46) last pick:  893.28  2480.78
+\t (00:03:46) No element found
+\i (00:03:48) pick grid 1177.76 2495.44
+\t (00:03:48) last pick:  1177.76  2495.44
+\t (00:03:48) Shape "Dgnd, Etch/Lay3-art1"
+\i (00:03:48) pick grid dbl 1177.76 2495.44
+\t (00:03:48) last pick:  1177.76  2495.44
+\t (00:03:48) No element found
+\i (00:03:48) zoom out 
+\i (00:03:48) setwindow pcb
+\i (00:03:48) zoom out 863.95 2169.91
+\i (00:03:48) trapsize 2933
+\i (00:03:49) zoom in 
+\i (00:03:49) setwindow pcb
+\i (00:03:49) zoom in 1585.41 3284.34
+\i (00:03:49) trapsize 1466
+\i (00:03:50) pick grid 1658.73 3172.90
+\t (00:03:50) last pick:  1658.73  3172.90
+\t (00:03:50) Shape "Dgnd, Etch/Lay3-art1"
+\i (00:03:50) pick grid dbl 1658.73 3172.90
+\t (00:03:50) last pick:  1658.73  3172.90
+\t (00:03:50) No element found
+\i (00:03:51) zoom in 
+\i (00:03:51) setwindow pcb
+\i (00:03:51) zoom in 1327.33 3539.49
+\i (00:03:51) trapsize 733
+\i (00:03:51) pick grid 1463.71 3406.05
+\t (00:03:51) last pick:  1463.71  3406.05
+\t (00:03:51) Shape "Dgnd, Etch/Lay3-art1"
+\i (00:03:52) pick grid dbl 1463.71 3406.05
+\t (00:03:52) last pick:  1463.71  3406.05
+\t (00:03:52) No element found
+\i (00:03:53) zoom out 
+\i (00:03:53) setwindow pcb
+\i (00:03:53) zoom out 1251.08 3263.81
+\i (00:03:53) trapsize 1466
+\i (00:03:53) zoom in 
+\i (00:03:53) setwindow pcb
+\i (00:03:53) zoom in 582.42 3571.76
+\i (00:03:53) trapsize 733
+\i (00:03:54) pick grid 525.23 3489.65
+\t (00:03:54) last pick:  525.23  3489.65
+\t (00:03:54) Shape "+3.3V_7601, Etch/Lay3-art1"
+\i (00:03:54) pick grid dbl 525.23 3489.65
+\t (00:03:54) last pick:  525.23  3489.65
+\t (00:03:54) No element found
+\i (00:03:55) zoom out 
+\i (00:03:55) setwindow pcb
+\i (00:03:55) zoom out 824.37 3391.40
+\i (00:03:55) trapsize 1466
+\i (00:03:55) zoom in 
+\i (00:03:55) setwindow pcb
+\i (00:03:55) zoom in 369.80 3837.18
+\i (00:03:55) trapsize 733
+\i (00:03:56) pick grid 365.41 3755.06
+\t (00:03:56) last pick:  365.41  3755.06
+\t (00:03:56) Shape "Dgnd, Etch/Top"
+\i (00:03:56) pick grid dbl 365.41 3755.06
+\t (00:03:56) last pick:  365.41  3755.06
+\t (00:03:56) No element found
+\i (00:03:57) zoom out 
+\i (00:03:57) setwindow pcb
+\i (00:03:57) zoom out 586.83 3706.67
+\i (00:03:57) trapsize 1466
+\i (00:03:57) zoom in 
+\i (00:03:57) setwindow pcb
+\i (00:03:57) zoom in 833.18 3533.64
+\i (00:03:57) trapsize 733
+\i (00:04:02) done 
+\i (00:04:27) setwindow form.mini
+\i (00:04:27) FORM mini class PACKAGE GEOMETRY 
+\i (00:04:32) FORM mini subclass PLACE_BOUND_TOP 
+\i (00:04:33) FORM mini subcolor 0 
+\i (00:04:38) FORM mini subclass PLACE_BOUND_BOTTOM 
+\i (00:04:39) FORM mini subcolor 0 
+\i (00:04:42) setwindow pcb
+\i (00:04:42) zoom out 
+\i (00:04:42) setwindow pcb
+\i (00:04:42) zoom out 893.30 3432.47
+\i (00:04:42) trapsize 1466
+\i (00:04:43) zoom out 
+\i (00:04:43) setwindow pcb
+\i (00:04:43) zoom out 978.36 3488.19
+\i (00:04:43) trapsize 2933
+\i (00:04:45) zoom in 
+\i (00:04:45) setwindow pcb
+\i (00:04:45) zoom in 2890.49 5024.93
+\i (00:04:45) trapsize 1466
+\i (00:04:47) delete 
+\i (00:04:47) pick 2805.45 4969.21 
+\t (00:04:47) last pick:  2805.45  4969.21
+\t (00:04:47) No element found
+\i (00:04:53) oops 
+\i (00:04:56) done 
+\i (00:05:00) setwindow form.mini
+\i (00:05:00) FORM mini subclass ASSEMBLY_TOP 
+\i (00:05:01) FORM mini subcolor 0 
+\i (00:05:07) FORM mini subclass ASSEMBLY_BOTTOM 
+\i (00:05:08) FORM mini subcolor 0 
+\i (00:05:09) setwindow pcb
+\i (00:05:09) zoom out 
+\i (00:05:09) setwindow pcb
+\i (00:05:09) zoom out 2940.35 4810.84
+\i (00:05:09) trapsize 2933
+\i (00:05:09) zoom out 
+\i (00:05:09) setwindow pcb
+\i (00:05:09) zoom out 2353.81 4646.61
+\i (00:05:09) trapsize 5865
+\i (00:05:10) zoom out 
+\i (00:05:10) setwindow pcb
+\i (00:05:10) zoom out 1251.10 4189.10
+\i (00:05:10) trapsize 11731
+\i (00:05:10) zoom in 
+\i (00:05:10) setwindow pcb
+\i (00:05:10) zoom in 7304.27 1491.00
+\i (00:05:10) trapsize 5865
+\i (00:05:11) zoom out 
+\i (00:05:11) setwindow pcb
+\i (00:05:11) zoom out 4535.77 869.26
+\i (00:05:11) trapsize 11731
+\i (00:05:12) zoom in 
+\i (00:05:12) setwindow pcb
+\i (00:05:12) zoom in 9228.13 -1359.62
+\i (00:05:12) trapsize 5865
+\i (00:05:12) zoom out 
+\i (00:05:12) setwindow pcb
+\i (00:05:12) zoom out 9122.55 -1300.97
+\i (00:05:12) trapsize 11731
+\i (00:05:13) delete 
+\i (00:05:13) pick -4532.26 -2004.82 
+\t (00:05:13) last pick:  -4532.26  -2004.82
+\t (00:05:13) No element found
+\i (00:05:14) zoom in 
+\i (00:05:14) setwindow pcb
+\i (00:05:14) zoom in 2600.15 1819.47
+\i (00:05:14) trapsize 5865
+\i (00:05:15) zoom in 
+\i (00:05:15) setwindow pcb
+\i (00:05:15) zoom in 817.05 1186.00
+\i (00:05:15) trapsize 2933
+\i (00:05:15) zoom in 
+\i (00:05:15) setwindow pcb
+\i (00:05:15) zoom in 705.61 1491.00
+\i (00:05:15) trapsize 1466
+\i (00:05:15) zoom in 
+\i (00:05:15) setwindow pcb
+\i (00:05:15) zoom in 966.62 1555.52
+\i (00:05:15) trapsize 733
+\i (00:05:16) zoom in 
+\i (00:05:16) setwindow pcb
+\i (00:05:16) zoom in 1006.21 1646.44
+\i (00:05:16) trapsize 367
+\i (00:05:18) pick grid 910.90 1671.37
+\t (00:05:18) last pick:  910.90  1671.37
+\t (00:05:18) Shape "Dgnd, Etch/Lay3-art1"
+\i (00:05:19) pick grid 907.97 1666.24
+\t (00:05:19) last pick:  907.97  1666.24
+\t (00:05:19) No element found
+\i (00:05:20) zoom out 
+\i (00:05:20) setwindow pcb
+\i (00:05:20) zoom out 995.95 1608.32
+\i (00:05:20) trapsize 733
+\i (00:05:20) zoom in 
+\i (00:05:20) setwindow pcb
+\i (00:05:20) zoom in 1280.43 1590.72
+\i (00:05:20) trapsize 367
+\i (00:05:21) pick grid 1263.56 1620.05
+\t (00:05:21) last pick:  1263.56  1620.05
+\t (00:05:21) Shape "Dgnd, Etch/Lay3-art1"
+\i (00:05:21) pick grid dbl 1263.56 1620.05
+\t (00:05:21) last pick:  1263.56  1620.05
+\t (00:05:21) No element found
+\i (00:05:22) zoom out 
+\i (00:05:22) setwindow pcb
+\i (00:05:22) zoom out 1126.46 1587.79
+\i (00:05:22) trapsize 733
+\i (00:05:22) zoom out 
+\i (00:05:22) setwindow pcb
+\i (00:05:22) zoom out 1167.52 1570.19
+\i (00:05:22) trapsize 1466
+\i (00:05:23) zoom out 
+\i (00:05:23) setwindow pcb
+\i (00:05:23) zoom out 1188.05 1666.97
+\i (00:05:23) trapsize 2933
+\i (00:05:25) zoom in 
+\i (00:05:25) setwindow pcb
+\i (00:05:25) zoom in 1158.72 446.96
+\i (00:05:25) trapsize 1466
+\i (00:05:26) zoom in 
+\i (00:05:26) setwindow pcb
+\i (00:05:26) zoom in 1196.85 1074.57
+\i (00:05:26) trapsize 733
+\i (00:05:26) pick grid 1251.11 1076.04
+\t (00:05:26) last pick:  1251.11  1076.04
+\t (00:05:26) Shape "Dgnd, Etch/Top"
+\i (00:05:27) pick grid dbl 1251.11 1076.04
+\t (00:05:27) last pick:  1251.11  1076.04
+\t (00:05:27) No element found
+\i (00:05:27) pick grid 1343.49 1073.10
+\t (00:05:27) last pick:  1343.49  1073.10
+\t (00:05:27) Shape "Dgnd, Etch/Top"
+\i (00:05:27) pick grid dbl 1343.49 1073.10
+\t (00:05:27) last pick:  1343.49  1073.10
+\t (00:05:27) No element found
+\i (00:05:28) pick grid 1413.88 1111.23
+\t (00:05:28) last pick:  1413.88  1111.23
+\t (00:05:28) Shape "Dgnd, Etch/Top"
+\i (00:05:28) pick grid dbl 1413.88 1111.23
+\t (00:05:28) last pick:  1413.88  1111.23
+\t (00:05:28) No element found
+\i (00:05:29) pick grid 1383.08 1219.74
+\t (00:05:29) last pick:  1383.08  1219.74
+\t (00:05:29) Shape "Dgnd, Etch/Lay3-art1"
+\i (00:05:29) pick grid dbl 1383.08 1219.74
+\t (00:05:29) last pick:  1383.08  1219.74
+\t (00:05:29) No element found
+\i (00:05:30) zoom out 
+\i (00:05:30) setwindow pcb
+\i (00:05:30) zoom out 972.50 876.61
+\i (00:05:30) trapsize 1466
+\i (00:05:31) zoom in 
+\i (00:05:31) setwindow pcb
+\i (00:05:31) zoom in 805.34 1489.55
+\i (00:05:31) trapsize 733
+\i (00:05:31) pick grid 711.49 1331.18
+\t (00:05:31) last pick:  711.49  1331.18
+\t (00:05:31) Shape "Dgnd, Etch/Top"
+\i (00:05:31) pick grid dbl 711.49 1331.18
+\t (00:05:31) last pick:  711.49  1331.18
+\t (00:05:31) No element found
+\i (00:05:32) zoom out 
+\i (00:05:32) setwindow pcb
+\i (00:05:32) zoom out 1020.89 1351.71
+\i (00:05:32) trapsize 1466
+\i (00:05:32) zoom in 
+\i (00:05:32) setwindow pcb
+\i (00:05:32) zoom in 123.48 1457.29
+\i (00:05:32) trapsize 733
+\i (00:05:33) pick grid 363.97 1411.83
+\t (00:05:33) last pick:  363.97  1411.83
+\t (00:05:33) Shape "N32335456, Etch/Top"
+\i (00:05:33) pick grid dbl 363.97 1411.83
+\t (00:05:33) last pick:  363.97  1411.83
+\t (00:05:33) No element found
+\i (00:05:34) pick grid 444.62 1381.04
+\t (00:05:34) last pick:  444.62  1381.04
+\t (00:05:34) Shape "+5V, Etch/Top"
+\i (00:05:35) pick grid dbl 444.62 1381.04
+\t (00:05:35) last pick:  444.62  1381.04
+\t (00:05:35) Shape "+5V, Etch/Bottom"
+\i (00:05:35) pick grid 446.09 1379.57
+\t (00:05:35) last pick:  446.09  1379.57
+\t (00:05:35) No element found
+\i (00:05:35) pick grid dbl 446.09 1379.57
+\t (00:05:35) last pick:  446.09  1379.57
+\t (00:05:35) No element found
+\i (00:05:37) pick grid 188.01 1539.41
+\t (00:05:37) last pick:  188.01  1539.41
+\t (00:05:37) Shape "+2.5V, Etch/Bottom"
+\i (00:05:37) pick grid dbl 188.01 1539.41
+\t (00:05:37) last pick:  188.01  1539.41
+\t (00:05:37) No element found
+\i (00:05:37) pick grid 359.57 1518.88
+\t (00:05:37) last pick:  359.57  1518.88
+\t (00:05:37) Shape "N32335456, Etch/Bottom"
+\i (00:05:38) pick grid dbl 359.57 1518.88
+\t (00:05:38) last pick:  359.57  1518.88
+\t (00:05:38) No element found
+\i (00:05:38) zoom out 
+\i (00:05:38) setwindow pcb
+\i (00:05:38) zoom out 12.04 1161.09
+\i (00:05:38) trapsize 1466
+\i (00:05:40) pick grid 381.57 2254.99
+\t (00:05:40) last pick:  381.57  2254.99
+\t (00:05:40) Shape "N32219285, Etch/Top"
+\i (00:05:40) pick grid dbl 381.57 2254.99
+\t (00:05:40) last pick:  381.57  2254.99
+\t (00:05:40) Shape "N32219285, Etch/Bottom"
+\i (00:05:41) pick grid 463.69 2064.36
+\t (00:05:41) last pick:  463.69  2064.36
+\t (00:05:41) Shape "+3.3V, Etch/Top"
+\i (00:05:41) pick grid dbl 463.69 2064.36
+\t (00:05:41) last pick:  463.69  2064.36
+\t (00:05:41) Shape "+3.3V, Etch/Bottom"
+\i (00:05:41) pick grid 422.63 2084.89
+\t (00:05:41) last pick:  422.63  2084.89
+\t (00:05:41) No element found
+\i (00:05:43) zoom out 
+\i (00:05:43) setwindow pcb
+\i (00:05:43) zoom out 507.68 1345.84
+\i (00:05:43) trapsize 2933
+\i (00:05:43) zoom out 
+\i (00:05:43) setwindow pcb
+\i (00:05:43) zoom out -747.54 882.47
+\i (00:05:43) trapsize 5865
+\i (00:05:44) zoom in 
+\i (00:05:44) setwindow pcb
+\i (00:05:44) zoom in 1188.07 2900.20
+\i (00:05:44) trapsize 2933
+\i (00:06:07) zoom in 
+\i (00:06:07) setwindow pcb
+\i (00:06:07) zoom in 2032.70 2601.06
+\i (00:06:07) trapsize 1466
+\i (00:06:08) zoom out 
+\i (00:06:08) setwindow pcb
+\i (00:06:08) zoom out 2499.01 2554.14
+\i (00:06:08) trapsize 2933
+\i (00:06:19) zoom in 
+\i (00:06:19) setwindow pcb
+\i (00:06:19) zoom in 1179.28 3023.38
+\i (00:06:19) trapsize 1466
+\i (00:06:20) zoom out 
+\i (00:06:20) setwindow pcb
+\i (00:06:20) zoom out 906.54 2689.05
+\i (00:06:20) trapsize 2933
+\i (00:06:21) zoom in 
+\i (00:06:21) setwindow pcb
+\i (00:06:21) zoom in 2179.35 3422.23
+\i (00:06:21) trapsize 1466
+\i (00:06:23) zoom out 
+\i (00:06:23) setwindow pcb
+\i (00:06:23) zoom out 2619.26 3331.32
+\i (00:06:23) trapsize 2933
+\i (00:06:51) zoom out 
+\i (00:06:51) setwindow pcb
+\i (00:06:51) zoom out 3023.99 3630.45
+\i (00:06:51) trapsize 5865
+\e (00:06:51) Stroke not recognized.
+\i (00:06:52) zoom in 
+\i (00:06:52) setwindow pcb
+\i (00:06:52) zoom in 2742.44 3384.11
+\i (00:06:52) trapsize 2933
+\i (00:06:52) zoom in 
+\i (00:06:52) setwindow pcb
+\i (00:06:52) zoom in 2226.28 3472.09
+\i (00:06:52) trapsize 1466
+\i (00:06:53) pick grid 2155.90 3542.48
+\t (00:06:53) last pick:  2155.90  3542.48
+\t (00:06:53) Shape "+3.3V_9132_Avdd, Etch/Lay3-art1"
+\i (00:06:54) pick grid 2123.64 3527.81
+\t (00:06:54) last pick:  2123.64  3527.81
+\t (00:06:54) No element found
+\i (00:06:54) pick grid 2155.90 3583.53
+\t (00:06:54) last pick:  2155.90  3583.53
+\t (00:06:54) Shape "+3.3V_Rx_Avdd, Etch/Lay3-art1"
+\i (00:06:54) pick grid dbl 2155.90 3583.53
+\t (00:06:54) last pick:  2155.90  3583.53
+\t (00:06:54) Shape "Dgnd, Etch/Lay3-art1"
+\i (00:06:55) pick grid 2179.36 3548.34
+\t (00:06:55) last pick:  2179.36  3548.34
+\t (00:06:55) No element found
+\i (00:06:55) pick grid dbl 2179.36 3548.34
+\t (00:06:55) last pick:  2179.36  3548.34
+\t (00:06:55) No element found
+\i (00:06:56) pick grid 2372.92 3694.98
+\t (00:06:56) last pick:  2372.92  3694.98
+\t (00:06:56) Shape "Dgnd, Etch/Top"
+\i (00:06:56) pick grid dbl 2372.92 3694.98
+\t (00:06:56) last pick:  2372.92  3694.98
+\t (00:06:56) No element found
+\i (00:06:57) pick grid 2484.37 3653.92
+\t (00:06:57) last pick:  2484.37  3653.92
+\t (00:06:57) Shape "Dgnd, Etch/Top"
+\i (00:06:58) pick grid dbl 2484.37 3653.92
+\t (00:06:58) last pick:  2484.37  3653.92
+\t (00:06:58) No element found
+\i (00:06:59) pick grid 2361.19 3381.18
+\t (00:06:59) last pick:  2361.19  3381.18
+\t (00:06:59) Shape "Dgnd, Etch/Top"
+\i (00:06:59) pick grid dbl 2361.19 3381.18
+\t (00:06:59) last pick:  2361.19  3381.18
+\t (00:06:59) No element found
+\i (00:07:00) pick grid 2282.01 3489.69
+\t (00:07:00) last pick:  2282.01  3489.69
+\t (00:07:00) No element found
+\i (00:07:00) pick grid dbl 2282.01 3489.69
+\t (00:07:00) last pick:  2282.01  3489.69
+\t (00:07:00) No element found
+\i (00:07:00) zoom in 
+\i (00:07:00) setwindow pcb
+\i (00:07:00) zoom in 2809.90 3601.13
+\i (00:07:00) trapsize 733
+\i (00:07:01) pick grid 2603.14 3549.81
+\t (00:07:01) last pick:  2603.14  3549.81
+\t (00:07:01) Shape "Dgnd, Etch/Top"
+\i (00:07:02) pick grid dbl 2603.14 3549.81
+\t (00:07:02) last pick:  2603.14  3549.81
+\t (00:07:02) No element found
+\i (00:07:02) pick grid 2606.08 3417.83
+\t (00:07:02) last pick:  2606.08  3417.83
+\t (00:07:02) Shape "Dgnd, Etch/Top"
+\i (00:07:02) pick grid dbl 2606.08 3417.83
+\t (00:07:02) last pick:  2606.08  3417.83
+\t (00:07:02) No element found
+\i (00:07:03) pick grid 2635.40 3668.58
+\t (00:07:03) last pick:  2635.40  3668.58
+\t (00:07:03) No element found
+\i (00:07:03) pick grid dbl 2635.40 3668.58
+\t (00:07:03) last pick:  2635.40  3668.58
+\t (00:07:03) No element found
+\i (00:07:04) pick grid 2606.08 3645.12
+\t (00:07:04) last pick:  2606.08  3645.12
+\t (00:07:04) Shape "Dgnd, Etch/Top"
+\i (00:07:04) pick grid dbl 2606.08 3645.12
+\t (00:07:04) last pick:  2606.08  3645.12
+\t (00:07:04) No element found
+\i (00:07:04) drag_start grid 2767.38 3702.31
+\i (00:07:04) drag_stop 2936.01 3661.25
+\t (00:07:04) Shape "Dgnd, Etch/Top"
+\i (00:07:05) pick grid 2721.92 3661.25
+\t (00:07:05) last pick:  2721.92  3661.25
+\t (00:07:05) No element found
+\i (00:07:06) pick grid 2740.98 3774.16
+\t (00:07:06) last pick:  2740.98  3774.16
+\t (00:07:06) No element found
+\i (00:07:06) pick grid 2739.52 3785.89
+\t (00:07:06) last pick:  2739.52  3785.89
+\t (00:07:06) Shape "Dgnd, Etch/Top"
+\i (00:07:06) pick grid dbl 2739.52 3785.89
+\t (00:07:06) last pick:  2739.52  3785.89
+\t (00:07:06) No element found
+\i (00:07:08) zoom out 
+\i (00:07:08) setwindow pcb
+\i (00:07:08) zoom out 2504.90 3530.74
+\i (00:07:08) trapsize 1466
+\i (00:07:08) zoom in 
+\i (00:07:08) setwindow pcb
+\i (00:07:08) zoom in 3109.04 3038.05
+\i (00:07:08) trapsize 733
+\i (00:07:11) drag_start grid 2818.70 3607.01
+\i (00:07:12) drag_stop 3028.39 2879.69
+\i (00:07:12) pick grid 3173.56 2991.13
+\t (00:07:12) last pick:  3173.56  2991.13
+\t (00:07:12) No element found
+\i (00:07:13) zoom out 
+\i (00:07:13) setwindow pcb
+\i (00:07:13) zoom out 2971.20 2995.53
+\i (00:07:13) trapsize 1466
+\i (00:07:14) zoom out 
+\i (00:07:14) setwindow pcb
+\i (00:07:14) zoom out 3023.99 3080.58
+\i (00:07:14) trapsize 2933
+\i (00:07:14) zoom in 
+\i (00:07:14) setwindow pcb
+\i (00:07:14) zoom in 1880.22 3678.86
+\i (00:07:14) trapsize 1466
+\i (00:07:15) zoom in 
+\i (00:07:15) setwindow pcb
+\i (00:07:15) zoom in 1721.86 3356.26
+\i (00:07:15) trapsize 733
+\i (00:07:17) pick grid 1833.30 3480.91
+\t (00:07:17) last pick:  1833.30  3480.91
+\t (00:07:17) Shape "N32211904, Etch/Top"
+\i (00:07:17) pick grid dbl 1833.30 3480.91
+\t (00:07:17) last pick:  1833.30  3480.91
+\t (00:07:17) No element found
+\i (00:07:18) pick grid 1940.35 3620.21
+\t (00:07:18) last pick:  1940.35  3620.21
+\t (00:07:18) Shape "+3.3V_Rx_Avdd, Etch/Bottom"
+\i (00:07:18) pick grid dbl 1940.35 3620.21
+\t (00:07:18) last pick:  1940.35  3620.21
+\t (00:07:18) No element found
+\i (00:07:19) pick grid 1828.90 3472.11
+\t (00:07:19) last pick:  1828.90  3472.11
+\t (00:07:19) No element found
+\i (00:07:19) pick grid dbl 1828.90 3472.11
+\t (00:07:19) last pick:  1828.90  3472.11
+\t (00:07:19) No element found
+\i (00:07:20) pick grid 1803.98 3491.17
+\t (00:07:20) last pick:  1803.98  3491.17
+\t (00:07:20) Shape "N32211904, Etch/Bottom"
+\i (00:07:20) pick grid dbl 1803.98 3491.17
+\t (00:07:20) last pick:  1803.98  3491.17
+\t (00:07:20) No element found
+\i (00:07:21) pick grid 1688.13 3640.74
+\t (00:07:21) last pick:  1688.13  3640.74
+\t (00:07:21) Shape "+3.3V_9132_Avdd, Etch/Bottom"
+\i (00:07:21) pick grid dbl 1688.13 3640.74
+\t (00:07:21) last pick:  1688.13  3640.74
+\t (00:07:21) No element found
+\i (00:07:22) zoom out 
+\i (00:07:22) setwindow pcb
+\i (00:07:22) zoom out 2056.19 3527.83
+\i (00:07:22) trapsize 1466
+\i (00:07:22) zoom in 
+\i (00:07:22) setwindow pcb
+\i (00:07:22) zoom in 1748.25 3187.63
+\i (00:07:22) trapsize 733
+\i (00:07:23) pick grid 1849.43 3246.29
+\t (00:07:23) last pick:  1849.43  3246.29
+\t (00:07:23) Shape "+5V, Etch/Top"
+\i (00:07:23) pick grid dbl 1849.43 3246.29
+\t (00:07:23) last pick:  1849.43  3246.29
+\t (00:07:23) Shape "+5V, Etch/Bottom"
+\i (00:07:24) pick grid 1881.69 3231.62
+\t (00:07:24) last pick:  1881.69  3231.62
+\t (00:07:24) No element found
+\i (00:07:24) pick grid dbl 1881.69 3231.62
+\t (00:07:24) last pick:  1881.69  3231.62
+\t (00:07:24) No element found
+\i (00:07:25) zoom out 
+\i (00:07:25) setwindow pcb
+\i (00:07:25) zoom out 2004.87 3299.07
+\i (00:07:25) trapsize 1466
+\i (00:07:25) zoom in 
+\i (00:07:25) setwindow pcb
+\i (00:07:25) zoom in 767.25 3313.74
+\i (00:07:25) trapsize 733
+\i (00:07:26) pick grid 842.03 3480.91
+\t (00:07:26) last pick:  842.03  3480.91
+\t (00:07:26) Shape "N32217881, Etch/Top"
+\i (00:07:26) pick grid dbl 842.03 3480.91
+\t (00:07:26) last pick:  842.03  3480.91
+\t (00:07:26) No element found
+\i (00:07:27) pick grid 959.34 3439.85
+\t (00:07:27) last pick:  959.34  3439.85
+\t (00:07:27) No element found
+\i (00:07:27) pick grid dbl 959.34 3439.85
+\t (00:07:27) last pick:  959.34  3439.85
+\t (00:07:27) No element found
+\i (00:07:28) pick grid 963.74 3451.58
+\t (00:07:28) last pick:  963.74  3451.58
+\t (00:07:28) Shape "+5V, Etch/Top"
+\i (00:07:28) pick grid dbl 963.74 3451.58
+\t (00:07:28) last pick:  963.74  3451.58
+\t (00:07:28) Shape "+5V, Etch/Bottom"
+\i (00:07:28) pick grid 969.61 3457.45
+\t (00:07:28) last pick:  969.61  3457.45
+\t (00:07:28) No element found
+\i (00:07:28) pick grid dbl 969.61 3457.45
+\t (00:07:28) last pick:  969.61  3457.45
+\t (00:07:28) No element found
+\i (00:07:29) pick grid 853.76 3636.35
+\t (00:07:29) last pick:  853.76  3636.35
+\t (00:07:29) Shape "N32217881, Etch/Bottom"
+\i (00:07:29) pick grid dbl 853.76 3636.35
+\t (00:07:29) last pick:  853.76  3636.35
+\t (00:07:29) No element found
+\i (00:07:30) pick grid 679.27 3639.28
+\t (00:07:30) last pick:  679.27  3639.28
+\t (00:07:30) Shape "+3.3V_7601, Etch/Bottom"
+\i (00:07:30) pick grid dbl 679.27 3639.28
+\t (00:07:30) last pick:  679.27  3639.28
+\t (00:07:30) No element found
+\i (00:07:31) zoom out 
+\i (00:07:31) setwindow pcb
+\i (00:07:31) zoom out 1034.13 3532.24
+\i (00:07:31) trapsize 1466
+\i (00:07:34) zoom out 
+\i (00:07:34) setwindow pcb
+\i (00:07:34) zoom out 139.64 2790.25
+\i (00:07:34) trapsize 2933
+\i (00:07:35) zoom in 
+\i (00:07:35) setwindow pcb
+\i (00:07:35) zoom in 2474.10 2848.90
+\i (00:07:35) trapsize 1466
+\i (00:07:38) zoom out 
+\i (00:07:38) setwindow pcb
+\i (00:07:38) zoom out 2324.53 3004.34
+\i (00:07:38) trapsize 2933
+\i (00:07:39) zoom out 
+\i (00:07:39) setwindow pcb
+\i (00:07:39) zoom out 2177.90 3098.19
+\i (00:07:39) trapsize 5865
+\i (00:07:39) zoom in 
+\i (00:07:39) setwindow pcb
+\i (00:07:39) zoom in 3702.91 3790.31
+\i (00:07:39) trapsize 2933
+\i (00:07:40) zoom in 
+\i (00:07:40) setwindow pcb
+\i (00:07:40) zoom in 3421.37 4218.49
+\i (00:07:40) trapsize 1466
+\i (00:07:41) zoom in 
+\i (00:07:41) setwindow pcb
+\i (00:07:41) zoom in 3145.70 4159.84
+\i (00:07:41) trapsize 733
+\i (00:07:42) drag_start grid 3148.63 4277.15
+\i (00:07:43) drag_stop 3295.27 3850.44
+\i (00:07:43) pick grid 3290.87 3753.66
+\t (00:07:43) last pick:  3290.87  3753.66
+\t (00:07:43) No element found
+\i (00:07:44) zoom out 
+\i (00:07:44) setwindow pcb
+\i (00:07:44) zoom out 3136.90 3919.36
+\i (00:07:44) trapsize 1466
+\i (00:07:45) zoom in 
+\i (00:07:45) setwindow pcb
+\i (00:07:45) zoom in 2691.13 4112.91
+\i (00:07:45) trapsize 733
+\i (00:07:46) pick grid 2855.37 4064.53
+\t (00:07:46) last pick:  2855.37  4064.53
+\t (00:07:46) Shape "Dgnd, Etch/Top"
+\i (00:07:46) pick grid dbl 2855.37 4064.53
+\t (00:07:46) last pick:  2855.37  4064.53
+\t (00:07:46) No element found
+\i (00:07:46) pick grid 3041.60 4192.10
+\t (00:07:46) last pick:  3041.60  4192.10
+\t (00:07:46) Shape "Dgnd, Etch/Top"
+\i (00:07:46) pick grid dbl 3041.60 4192.10
+\t (00:07:46) last pick:  3041.60  4192.10
+\t (00:07:46) No element found
+\i (00:07:47) pick grid 2828.97 4255.15
+\t (00:07:47) last pick:  2828.97  4255.15
+\t (00:07:47) Shape "Dgnd, Etch/Top"
+\i (00:07:47) pick grid dbl 2828.97 4255.15
+\t (00:07:47) last pick:  2828.97  4255.15
+\t (00:07:47) No element found
+\i (00:07:48) pick grid 2830.44 4379.80
+\t (00:07:48) last pick:  2830.44  4379.80
+\t (00:07:48) Shape "Dgnd, Etch/Top"
+\i (00:07:48) pick grid dbl 2830.44 4379.80
+\t (00:07:48) last pick:  2830.44  4379.80
+\t (00:07:48) No element found
+\i (00:07:48) zoom out 
+\i (00:07:48) setwindow pcb
+\i (00:07:48) zoom out 3034.26 4237.56
+\i (00:07:48) trapsize 1466
+\i (00:07:49) zoom in 
+\i (00:07:49) setwindow pcb
+\i (00:07:49) zoom in 2092.86 4219.96
+\i (00:07:49) trapsize 733
+\i (00:07:49) pick grid 2110.46 4337.27
+\t (00:07:49) last pick:  2110.46  4337.27
+\t (00:07:49) Shape "Dgnd, Etch/Top"
+\i (00:07:50) pick grid dbl 2110.46 4337.27
+\t (00:07:50) last pick:  2110.46  4337.27
+\t (00:07:50) No element found
+\i (00:07:50) pick grid 2217.50 4338.74
+\t (00:07:50) last pick:  2217.50  4338.74
+\t (00:07:50) No element found
+\i (00:07:51) pick grid 2179.38 4334.34
+\t (00:07:51) last pick:  2179.38  4334.34
+\t (00:07:51) Shape "Dgnd, Etch/Top"
+\i (00:07:51) pick grid dbl 2179.38 4334.34
+\t (00:07:51) last pick:  2179.38  4334.34
+\t (00:07:51) No element found
+\i (00:07:51) pick grid 2048.87 4373.93
+\t (00:07:51) last pick:  2048.87  4373.93
+\t (00:07:51) Shape "Dgnd, Etch/Bottom"
+\i (00:07:51) pick grid dbl 2048.87 4373.93
+\t (00:07:51) last pick:  2048.87  4373.93
+\t (00:07:51) Shape "Dgnd, Etch/Lay3-art1"
+\i (00:07:52) pick grid 2048.87 4378.33
+\t (00:07:52) last pick:  2048.87  4378.33
+\t (00:07:52) No element found
+\i (00:07:52) pick grid dbl 2048.87 4378.33
+\t (00:07:52) last pick:  2048.87  4378.33
+\t (00:07:52) No element found
+\i (00:07:52) pick grid 2047.40 4385.66
+\t (00:07:52) last pick:  2047.40  4385.66
+\t (00:07:52) No element found
+\i (00:07:52) pick grid 2010.74 4419.39
+\t (00:07:52) last pick:  2010.74  4419.39
+\t (00:07:52) No element found
+\i (00:07:53) pick grid dbl 2010.74 4419.39
+\t (00:07:53) last pick:  2010.74  4419.39
+\t (00:07:53) No element found
+\i (00:07:53) pick grid 2004.88 4426.72
+\t (00:07:53) last pick:  2004.88  4426.72
+\t (00:07:53) Shape "Dgnd, Etch/Top"
+\i (00:07:53) pick grid dbl 2004.88 4426.72
+\t (00:07:53) last pick:  2004.88  4426.72
+\t (00:07:53) No element found
+\i (00:07:53) pick grid 2004.88 4426.72
+\t (00:07:53) last pick:  2004.88  4426.72
+\t (00:07:53) No element found
+\i (00:07:54) pick grid 1918.36 4306.48
+\t (00:07:54) last pick:  1918.36  4306.48
+\t (00:07:54) Shape "Dgnd, Etch/Bottom"
+\i (00:07:54) pick grid dbl 1918.36 4306.48
+\t (00:07:54) last pick:  1918.36  4306.48
+\t (00:07:54) No element found
+\i (00:07:54) pick grid 1918.36 4306.48
+\t (00:07:54) last pick:  1918.36  4306.48
+\t (00:07:54) No element found
+\i (00:07:55) pick grid 1956.49 4187.70
+\t (00:07:55) last pick:  1956.49  4187.70
+\t (00:07:55) Shape "Dgnd, Etch/Bottom"
+\i (00:07:55) pick grid dbl 1956.49 4187.70
+\t (00:07:55) last pick:  1956.49  4187.70
+\t (00:07:55) No element found
+\i (00:07:58) zoom out 
+\i (00:07:58) setwindow pcb
+\i (00:07:58) zoom out 2359.74 4109.98
+\i (00:07:58) trapsize 1466
+\i (00:07:58) zoom in 
+\i (00:07:58) setwindow pcb
+\i (00:07:58) zoom in 2512.24 4036.67
+\i (00:07:58) trapsize 733
+\i (00:07:59) zoom in 
+\i (00:07:59) setwindow pcb
+\i (00:07:59) zoom in 2437.46 4171.58
+\i (00:07:59) trapsize 367
+\i (00:07:59) pick grid 2448.46 4180.38
+\t (00:07:59) last pick:  2448.46  4180.38
+\t (00:07:59) Shape "+5V, Etch/Lay3-art1"
+\i (00:07:59) pick grid dbl 2448.46 4180.38
+\t (00:07:59) last pick:  2448.46  4180.38
+\t (00:07:59) No element found
+\i (00:08:00) pick grid 2425.00 4087.26
+\t (00:08:00) last pick:  2425.00  4087.26
+\t (00:08:00) No element found
+\i (00:08:00) pick grid dbl 2425.00 4087.26
+\t (00:08:00) last pick:  2425.00  4087.26
+\t (00:08:00) No element found
+\i (00:08:01) pick grid 2422.06 4076.26
+\t (00:08:01) last pick:  2422.06  4076.26
+\t (00:08:01) Shape "Dgnd, Etch/Lay3-art1"
+\i (00:08:01) pick grid dbl 2422.06 4076.26
+\t (00:08:01) last pick:  2422.06  4076.26
+\t (00:08:01) No element found
+\i (00:08:01) zoom out 
+\i (00:08:01) setwindow pcb
+\i (00:08:01) zoom out 2386.87 4124.65
+\i (00:08:01) trapsize 733
+\i (00:08:02) zoom out 
+\i (00:08:02) setwindow pcb
+\i (00:08:02) zoom out 2404.47 4149.59
+\i (00:08:02) trapsize 1466
+\i (00:08:02) zoom out 
+\i (00:08:02) setwindow pcb
+\i (00:08:02) zoom out 2559.91 4158.39
+\i (00:08:02) trapsize 2933
+\i (00:08:03) zoom in 
+\i (00:08:03) setwindow pcb
+\i (00:08:03) zoom in 3914.83 3020.48
+\i (00:08:03) trapsize 1466
+\i (00:08:04) drag_start grid 3469.06 3164.19
+\i (00:08:04) drag_stop 3832.71 3061.54
+\t (00:08:04) Shape "-5V, Etch/Lay3-art1"
+\i (00:08:05) pick grid 3832.71 3058.61
+\t (00:08:05) last pick:  3832.71  3058.61
+\t (00:08:05) No element found
+\i (00:08:05) pick grid 3867.91 3187.65
+\t (00:08:05) last pick:  3867.91  3187.65
+\t (00:08:05) Shape "Dgnd, Etch/Lay3-art1"
+\i (00:08:06) pick grid dbl 3867.91 3187.65
+\t (00:08:06) last pick:  3867.91  3187.65
+\t (00:08:06) No element found
+\i (00:08:06) zoom in 
+\i (00:08:06) setwindow pcb
+\i (00:08:06) zoom in 3477.85 3290.30
+\i (00:08:06) trapsize 733
+\i (00:08:07) drag_start grid 3320.95 3511.72
+\i (00:08:08) drag_stop 3433.86 3299.10
+\i (00:08:08) pick grid 3342.95 3219.91
+\t (00:08:08) last pick:  3342.95  3219.91
+\t (00:08:08) No element found
+\i (00:08:09) zoom in 
+\i (00:08:09) setwindow pcb
+\i (00:08:09) zoom in 3876.70 3356.29
+\i (00:08:09) trapsize 367
+\i (00:08:12) zoom in 
+\i (00:08:12) setwindow pcb
+\i (00:08:12) zoom in 3781.39 3299.10
+\i (00:08:12) trapsize 183
+\i (00:08:13) zoom out 
+\i (00:08:13) setwindow pcb
+\i (00:08:13) zoom out 3766.00 3317.43
+\i (00:08:13) trapsize 367
+\i (00:08:14) zoom out 
+\i (00:08:14) setwindow pcb
+\i (00:08:14) zoom out 3718.34 3456.01
+\i (00:08:14) trapsize 733
+\i (00:08:14) zoom out 
+\i (00:08:14) setwindow pcb
+\i (00:08:14) zoom out 3760.87 3441.35
+\i (00:08:14) trapsize 1466
+\i (00:08:15) zoom in 
+\i (00:08:15) setwindow pcb
+\i (00:08:15) zoom in 3555.58 2667.11
+\i (00:08:15) trapsize 733
+\e (00:08:15) Stroke not recognized.
+\i (00:08:16) drag_start grid 3257.91 2909.06
+\i (00:08:16) drag_stop 3407.48 2728.70
+\i (00:08:17) pick grid 3413.34 2680.31
+\t (00:08:17) last pick:  3413.34  2680.31
+\t (00:08:17) No element found
+\i (00:08:18) zoom in 
+\i (00:08:18) setwindow pcb
+\i (00:08:18) zoom in 3624.50 2706.70
+\i (00:08:18) trapsize 367
+\i (00:08:20) zoom in 
+\i (00:08:20) setwindow pcb
+\i (00:08:20) zoom in 3562.92 2728.70
+\i (00:08:20) trapsize 183
+\i (00:08:21) zoom out 
+\i (00:08:21) setwindow pcb
+\i (00:08:21) zoom out 3504.26 2755.09
+\i (00:08:21) trapsize 367
+\i (00:08:21) zoom out 
+\i (00:08:21) setwindow pcb
+\i (00:08:21) zoom out 3506.47 2738.97
+\i (00:08:21) trapsize 733
+\i (00:08:22) pick grid 4101.81 2967.73
+\t (00:08:22) last pick:  4101.81  2967.73
+\t (00:08:22) Shape "Dgnd, Etch/Lay3-art1"
+\i (00:08:22) pick grid dbl 4101.81 2967.73
+\t (00:08:22) last pick:  4101.81  2967.73
+\t (00:08:22) No element found
+\i (00:08:23) zoom out 
+\i (00:08:23) setwindow pcb
+\i (00:08:23) zoom out 3927.31 2793.23
+\i (00:08:23) trapsize 1466
+\i (00:08:24) pick grid 4308.56 3585.07
+\t (00:08:24) last pick:  4308.56  3585.07
+\t (00:08:24) Shape "+5V, Etch/Top"
+\i (00:08:24) pick grid dbl 4308.56 3585.07
+\t (00:08:24) last pick:  4308.56  3585.07
+\t (00:08:24) Shape "+5V, Etch/Bottom"
+\i (00:08:25) pick grid 4510.92 3588.01
+\t (00:08:25) last pick:  4510.92  3588.01
+\t (00:08:25) Shape "-5V, Etch/Top"
+\i (00:08:26) pick grid dbl 4510.92 3588.01
+\t (00:08:26) last pick:  4510.92  3588.01
+\t (00:08:26) Shape "-5V, Etch/Bottom"
+\i (00:08:27) pick grid 4516.79 3573.34
+\t (00:08:27) last pick:  4516.79  3573.34
+\t (00:08:27) No element found
+\i (00:08:35) setwindow form.vf_vis
+\i (00:08:35) FORM vf_vis colorview_list Film: art01top 
+\i (00:08:36) setwindow pcb
+\i (00:08:36) zoom out 
+\i (00:08:36) setwindow pcb
+\i (00:08:36) zoom out 3698.55 2986.79
+\i (00:08:36) trapsize 2933
+\i (00:08:37) zoom in 
+\i (00:08:37) setwindow pcb
+\i (00:08:37) zoom in 4109.13 2728.70
+\i (00:08:37) trapsize 1466
+\i (00:08:37) zoom in 
+\i (00:08:37) setwindow pcb
+\i (00:08:37) zoom in 4604.77 2913.47
+\i (00:08:37) trapsize 733
+\i (00:08:38) pick grid 4459.60 2850.42
+\t (00:08:38) last pick:  4459.60  2850.42
+\t (00:08:38) No element found
+\i (00:08:38) pick grid 4398.01 2840.15
+\t (00:08:38) last pick:  4398.01  2840.15
+\t (00:08:38) Shape "+3.3V_8978, Etch/Top"
+\i (00:08:38) pick grid dbl 4398.01 2840.15
+\t (00:08:38) last pick:  4398.01  2840.15
+\t (00:08:38) No element found
+\i (00:08:40) pick grid 4461.07 2630.46
+\t (00:08:40) last pick:  4461.07  2630.46
+\t (00:08:40) Shape "+5V, Etch/Top"
+\i (00:08:40) pick grid dbl 4461.07 2630.46
+\t (00:08:40) last pick:  4461.07  2630.46
+\t (00:08:40) No element found
+\i (00:08:40) zoom out 
+\i (00:08:40) setwindow pcb
+\i (00:08:40) zoom out 4553.45 2853.35
+\i (00:08:40) trapsize 1466
+\i (00:08:41) zoom in 
+\i (00:08:41) setwindow pcb
+\i (00:08:41) zoom in 3573.91 2656.85
+\i (00:08:41) trapsize 733
+\i (00:08:41) drag_start grid 3572.44 2850.41
+\i (00:08:41) drag_stop 3628.17 2662.72
+\i (00:08:42) pick grid 3603.24 2585.00
+\t (00:08:42) last pick:  3603.24  2585.00
+\t (00:08:42) No element found
+\i (00:08:42) drag_start grid 3889.18 2527.81
+\i (00:08:43) drag_stop 4345.23 2410.50
+\i (00:08:43) pick grid 4349.63 2414.90
+\t (00:08:43) last pick:  4349.63  2414.90
+\t (00:08:43) No element found
+\i (00:08:44) zoom out 
+\i (00:08:44) setwindow pcb
+\i (00:08:44) zoom out 3991.83 2721.37
+\i (00:08:44) trapsize 1466
+\i (00:08:44) zoom out 
+\i (00:08:44) setwindow pcb
+\i (00:08:44) zoom out 4244.04 2832.82
+\i (00:08:44) trapsize 2933
+\i (00:08:45) zoom in 
+\i (00:08:45) setwindow pcb
+\i (00:08:45) zoom in 2267.36 2158.28
+\i (00:08:45) trapsize 1466
+\i (00:08:46) drag_start grid 1663.21 2322.52
+\i (00:08:46) drag_stop 1991.68 2058.57
+\i (00:08:46) pick grid 1994.61 2058.57
+\t (00:08:46) last pick:  1994.61  2058.57
+\t (00:08:46) No element found
+\i (00:08:47) drag_start grid 2188.18 2436.89
+\i (00:08:47) drag_stop 2809.92 2093.76
+\i (00:08:47) pick grid 2842.18 2090.83
+\t (00:08:47) last pick:  2842.18  2090.83
+\t (00:08:47) No element found
+\i (00:08:48) drag_start grid 2859.78 2296.12
+\i (00:08:48) drag_stop 3320.23 2017.51
+\i (00:08:48) pick grid 3320.23 2017.51
+\t (00:08:48) last pick:  3320.23  2017.51
+\t (00:08:48) No element found
+\i (00:08:49) zoom out 
+\i (00:08:49) setwindow pcb
+\i (00:08:49) zoom out 2927.23 2231.60
+\i (00:08:49) trapsize 2933
+\i (00:08:50) zoom in 
+\i (00:08:50) setwindow pcb
+\i (00:08:50) zoom in 1020.94 3217.01
+\i (00:08:50) trapsize 1466
+\i (00:08:51) drag_start grid 877.24 3272.74
+\i (00:08:51) drag_stop 1103.06 3158.36
+\t (00:08:51) Shape "Dgnd, Etch/Top"
+\i (00:08:52) pick grid 1208.64 2777.10
+\t (00:08:52) last pick:  1208.64  2777.10
+\t (00:08:52) No element found
+\i (00:08:52) drag_start grid 1279.03 2961.86
+\i (00:08:53) drag_stop 1498.99 2636.33
+\i (00:08:53) pick grid 1498.99 2636.33
+\t (00:08:53) last pick:  1498.99  2636.33
+\t (00:08:53) No element found
+\i (00:08:53) zoom out 
+\i (00:08:53) setwindow pcb
+\i (00:08:53) zoom out 255.49 2404.64
+\i (00:08:53) trapsize 2933
+\i (00:08:55) zoom out 
+\i (00:08:55) setwindow pcb
+\i (00:08:55) zoom out 2355.36 3530.82
+\i (00:08:55) trapsize 5866
+\i (00:08:57) zoom in 
+\i (00:08:57) setwindow pcb
+\i (00:08:57) zoom in 8338.20 914.79
+\i (00:08:57) trapsize 2933
+\i (00:08:59) drag_start grid 4384.83 2404.64
+\i (00:08:59) drag_stop 5434.76 1735.97
+\i (00:09:00) pick grid 5270.53 1565.87
+\t (00:09:00) last pick:  5270.53  1565.87
+\t (00:09:00) No element found
+\i (00:09:01) zoom out 
+\i (00:09:01) setwindow pcb
+\i (00:09:01) zoom out 6795.56 1683.18
+\i (00:09:01) trapsize 5866
+\i (00:09:02) zoom in 
+\i (00:09:02) setwindow pcb
+\i (00:09:02) zoom in 9728.34 2574.74
+\i (00:09:02) trapsize 2933
+\i (00:09:03) drag_start grid 9171.11 4146.70
+\i (00:09:03) drag_stop 9874.98 3548.42
+\t (00:09:03) Shape "Dgnd, Etch/Top"
+\i (00:09:03) pick grid 9874.98 3548.42
+\t (00:09:03) last pick:  9874.98  3548.42
+\t (00:09:03) No element found
+\i (00:09:04) drag_start grid 8907.16 3366.59
+\i (00:09:05) drag_stop 9951.23 1624.52
+\i (00:09:06) pick grid 9781.13 1542.41
+\t (00:09:06) last pick:  9781.13  1542.41
+\t (00:09:06) No element found
+\i (00:09:07) drag_start grid 8220.90 3173.03
+\i (00:09:07) drag_stop 9024.47 2774.17
+\i (00:09:07) pick grid 9024.47 2774.17
+\t (00:09:07) last pick:  9024.47  2774.17
+\t (00:09:07) No element found
+\i (00:09:08) drag_start grid 7915.89 3624.67
+\i (00:09:09) drag_stop 8660.81 2926.67
+\i (00:09:09) pick grid 8660.81 2926.67
+\t (00:09:09) last pick:  8660.81  2926.67
+\t (00:09:09) No element found
+\i (00:09:10) zoom in 
+\i (00:09:10) setwindow pcb
+\i (00:09:10) zoom in 6983.27 2604.07
+\i (00:09:10) trapsize 1466
+\i (00:09:11) drag_start grid 6813.17 3058.65
+\i (00:09:12) drag_stop 7628.48 2290.26
+\i (00:09:12) pick grid 7631.42 2290.26
+\t (00:09:12) last pick:  7631.42  2290.26
+\t (00:09:12) No element found
+\i (00:09:13) zoom out 
+\i (00:09:13) setwindow pcb
+\i (00:09:13) zoom out 8341.15 2700.85
+\i (00:09:13) trapsize 2933
+\i (00:09:13) zoom in 
+\i (00:09:13) setwindow pcb
+\i (00:09:13) zoom in 6487.63 1856.21
+\i (00:09:13) trapsize 1466
+\i (00:09:14) drag_start grid 6162.09 2486.76
+\i (00:09:14) drag_stop 6757.45 1548.27
+\i (00:09:15) pick grid 6695.86 1548.27
+\t (00:09:15) last pick:  6695.86  1548.27
+\t (00:09:15) No element found
+\i (00:09:15) zoom out 
+\i (00:09:15) setwindow pcb
+\i (00:09:15) zoom out 6772.11 2134.83
+\i (00:09:15) trapsize 2933
+\i (00:09:16) zoom in 
+\i (00:09:16) setwindow pcb
+\i (00:09:16) zoom in 7323.47 1190.47
+\i (00:09:16) trapsize 1466
+\i (00:09:16) drag_start grid 6798.50 2143.62
+\i (00:09:17) drag_stop 7643.14 1287.25
+\i (00:09:17) pick grid 7643.14 1287.25
+\t (00:09:17) last pick:  7643.14  1287.25
+\t (00:09:17) No element found
+\i (00:09:18) zoom out 
+\i (00:09:18) setwindow pcb
+\i (00:09:18) zoom out 6819.03 1741.83
+\i (00:09:18) trapsize 2933
+\i (00:09:18) zoom out 
+\i (00:09:18) setwindow pcb
+\i (00:09:18) zoom out 7106.45 1917.80
+\i (00:09:18) trapsize 5866
+\i (00:09:19) zoom in 
+\i (00:09:19) setwindow pcb
+\i (00:09:19) zoom in 7364.53 -311.11
+\i (00:09:19) trapsize 2933
+\i (00:09:19) drag_start grid 6596.14 1108.35
+\i (00:09:20) drag_stop 7722.33 93.62
+\i (00:09:21) pick grid 7282.41 64.29
+\t (00:09:21) last pick:  7282.41  64.29
+\t (00:09:21) No element found
+\i (00:09:21) drag_start grid 7798.58 1389.90
+\i (00:09:22) drag_stop 8731.20 498.34
+\i (00:09:22) pick grid 8731.20 463.14
+\t (00:09:22) last pick:  8731.20  463.14
+\t (00:09:22) No element found
+\i (00:09:23) zoom out 
+\i (00:09:23) setwindow pcb
+\i (00:09:23) zoom out 6508.16 -475.34
+\i (00:09:23) trapsize 5866
+\i (00:09:23) zoom in 
+\i (00:09:23) setwindow pcb
+\i (00:09:23) zoom in 9452.66 404.49
+\i (00:09:23) trapsize 2933
+\i (00:09:24) drag_start grid 8907.17 1489.62
+\i (00:09:24) drag_stop 9657.95 -53.02
+\t (00:09:24) Cannot edit Shape "Board Geometry/Outline". It has the FIXED property.
+\i (00:09:24) pick grid 9657.95 -53.02
+\t (00:09:24) last pick:  9657.95  -53.02
+\t (00:09:24) No element found
+\i (00:09:25) zoom out 
+\i (00:09:25) setwindow pcb
+\i (00:09:25) zoom out 7915.89 -340.43
+\i (00:09:25) trapsize 5866
+\i (00:09:25) zoom in 
+\i (00:09:25) setwindow pcb
+\i (00:09:25) zoom in 7751.66 1771.17
+\i (00:09:25) trapsize 2933
+\i (00:09:26) drag_start grid 7822.05 2269.74
+\i (00:09:26) drag_stop 8760.54 1331.25
+\i (00:09:26) pick grid 8760.54 1331.25
+\t (00:09:26) last pick:  8760.54  1331.25
+\t (00:09:26) No element found
+\i (00:09:27) zoom out 
+\i (00:09:27) setwindow pcb
+\i (00:09:27) zoom out 8965.83 1413.37
+\i (00:09:27) trapsize 5866
+\i (00:09:28) zoom out 
+\i (00:09:28) setwindow pcb
+\i (00:09:28) zoom out 8778.13 1202.21
+\i (00:09:28) trapsize 11731
+\i (00:09:29) zoom in 
+\i (00:09:29) setwindow pcb
+\i (00:09:29) zoom in 3194.15 -393.21
+\i (00:09:29) trapsize 5866
+\i (00:10:11) zoom out 
+\i (00:10:11) setwindow pcb
+\i (00:10:11) zoom out 3393.57 1812.23
+\i (00:10:11) trapsize 11731
+\i (00:10:12) zoom in 
+\i (00:10:12) setwindow pcb
+\i (00:10:12) zoom in 8320.63 1718.38
+\i (00:10:12) trapsize 5866
+\i (00:17:54) zoom out 
+\i (00:17:54) setwindow pcb
+\i (00:17:54) zoom out 10326.64 1694.92
+\i (00:17:54) trapsize 11731
+\i (00:17:57) exit 
+\f (00:17:58) Do you want to save the changes you made to TL-340301030.brd?
+\i (00:18:02) fillin no 
